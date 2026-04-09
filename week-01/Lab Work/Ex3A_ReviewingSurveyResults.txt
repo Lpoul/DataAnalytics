@@ -1,0 +1,35 @@
+1.What conclusion can you reach about the responses to this question?
+
+	The conclusion that I reached about the responses is that, 12 people have a second monitor, 6 people don't have a second monitor, 1 person has an Ipad, 1 person has mac laptop, 1 person has three monitors as well as a laptop, 6 	people don't have a second monitor, 1 person has only a second laptop and 1 person has plans on buying a second monitor.
+
+2.Is the default summary or visualization helpful? How could it be improved?
+
+	The default visualization is not helpful because the table is long and hard to read. It could be improved by having Do you have a second monitor connected to your computer?,Do you have an external keyboard and mouse?, and How do 	you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? as independent charts so the results are easier to read.
+
+3.For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+	You can find the actual text of the responses from custom filtering. I don't think it might be tricky about analyzing these, I think during the analyst you can figure out how to categorize the "other" answers.
+
+4.For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+	I think the challenges that I notice is readability and seeing if you are able to group the written responses based on the answers to find the different trends. 
+
+5.Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+	I would rephrase the survey to include more multiple choice questions to make the analyst easier. I think the questions are fine.
+
+6. Is there anything that surprised you about the survey responses?
+
+	That someone has 3 monitors and a laptop.
+
+7.Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+	
+	Some ideas that I might try to include in my morning routine is to practice git bash essentials and to make sure my notes are readable to go over following the next day.
+
+8.Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+	If I was the instructor, I would have the slides available for download just for the students to make sure that their notes are accurate.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both)
+
+	I think it does not matter to keep this survey anonymous because the purpose of the survey was to ask general questions rather than specific or personal ones.  
