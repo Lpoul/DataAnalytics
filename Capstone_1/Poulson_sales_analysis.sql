@@ -1,4 +1,4 @@
--- Sales Territory: South Region
+-- Sales Territory: Northeast Region
 
 
 USE sample_sales;
