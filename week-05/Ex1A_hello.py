@@ -25,4 +25,3 @@ d_str = '3 dollars'
 c_str = '50 cents'
 
 print(d_str + ' ' + c_str)
-
