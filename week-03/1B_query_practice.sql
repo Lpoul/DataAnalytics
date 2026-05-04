@@ -29,7 +29,7 @@ USE northwind;
 	SELECT SupplierID,ProductID, ProductName 
     FROM products
 		JOIN suppliers
-			ON products.SupplierID = suppliers.SupplierID
+			ON SupplierID
 				WHERE CompanyName = 'Tokyo Traders';
 
 -- How many employees work at northwind? What employees have "manager"

@@ -89,3 +89,29 @@ WHERE ShipRegion IS NULL;
 SELECT FirstName, LastName, Region
 FROM employees
 WHERE Region IS NOT NULL;
+
+-- Example 2
+SELECT OrderID, CompanyName, OrderDate
+FROM Orders
+JOIN Customers USING (CustomerID)
+ORDER BY OrderDate
+LIMIT 5;
+
+-- Example 5
+-- Customers with zero orders will show 0 in Order Count
+SELECT c.CompanyName,
+       COUNT(o.OrderID) AS 'Order Count'
+FROM Customers c
+LEFT JOIN Orders o ON c.CustomerID = o.CustomerID
+GROUP BY c.CompanyName
+ORDER BY `Order Count` ASC
+LIMIT 5;
+
+
+
+
+select count(orderID)
+from orders;
+
+
+SELECT sum(Freight) AS 'Total Freight', avg(Freight)

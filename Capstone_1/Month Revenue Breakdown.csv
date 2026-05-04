@@ -1,0 +1,193 @@
+State,Year_and_Month,Total_Monthly_Revenue
+Maryland,"2022 01",190064.90
+Massachusetts,"2022 01",69396.42
+Maine,"2022 01",15700.31
+"New Jersey","2022 01",70597.51
+Massachusetts,"2022 02",65616.00
+Maryland,"2022 02",197529.18
+Maine,"2022 02",21008.29
+"New Jersey","2022 02",63225.69
+Massachusetts,"2022 03",77390.00
+Maryland,"2022 03",210228.48
+Maine,"2022 03",23173.23
+"New Jersey","2022 03",64779.71
+Maryland,"2022 04",179004.18
+Massachusetts,"2022 04",81333.60
+Maine,"2022 04",20169.19
+"New Jersey","2022 04",78465.40
+Massachusetts,"2022 05",75919.64
+Maryland,"2022 05",212028.70
+Maine,"2022 05",22631.11
+"New Jersey","2022 05",73037.02
+Maryland,"2022 06",198318.98
+Massachusetts,"2022 06",81227.82
+Maine,"2022 06",31573.93
+"New Jersey","2022 06",66868.55
+Massachusetts,"2022 07",67271.23
+Maryland,"2022 07",231208.13
+Maine,"2022 07",19371.11
+"New Jersey","2022 07",72096.47
+Massachusetts,"2022 08",73543.48
+Maryland,"2022 08",203503.40
+Maine,"2022 08",27979.07
+"New Jersey","2022 08",73904.91
+Maryland,"2022 09",158952.74
+Massachusetts,"2022 09",58716.74
+Maine,"2022 09",27393.30
+"New Jersey","2022 09",77869.16
+Maryland,"2022 10",200423.07
+Massachusetts,"2022 10",72514.81
+Maine,"2022 10",24947.09
+"New Jersey","2022 10",83610.78
+Maryland,"2022 11",202365.13
+Massachusetts,"2022 11",70654.73
+Maine,"2022 11",19783.08
+"New Jersey","2022 11",70526.89
+Massachusetts,"2022 12",70025.64
+Maryland,"2022 12",226340.81
+Maine,"2022 12",25345.23
+"New Jersey","2022 12",84464.75
+Massachusetts,"2023 01",139388.56
+Maryland,"2023 01",247207.80
+Maine,"2023 01",41331.95
+"New Jersey","2023 01",115439.64
+Massachusetts,"2023 02",104454.67
+Maryland,"2023 02",215146.55
+Maine,"2023 02",37650.30
+"New Jersey","2023 02",91815.52
+Maryland,"2023 03",212397.10
+Massachusetts,"2023 03",112443.92
+Maine,"2023 03",36162.92
+"New Jersey","2023 03",101529.42
+Massachusetts,"2023 04",109369.00
+Maryland,"2023 04",253354.48
+Maine,"2023 04",35875.41
+"New Jersey","2023 04",94095.22
+Massachusetts,"2023 05",109021.42
+Maryland,"2023 05",236271.38
+Maine,"2023 05",26201.22
+"New Jersey","2023 05",93011.83
+Maryland,"2023 06",243603.42
+Massachusetts,"2023 06",101710.16
+Maine,"2023 06",30183.66
+"New Jersey","2023 06",88203.90
+Massachusetts,"2023 07",120793.96
+Maryland,"2023 07",218664.85
+Maine,"2023 07",44731.17
+"New Jersey","2023 07",98822.98
+Massachusetts,"2023 08",126212.14
+Maryland,"2023 08",233256.77
+Maine,"2023 08",42202.08
+"New Jersey","2023 08",107203.90
+Massachusetts,"2023 09",121968.93
+Maryland,"2023 09",227638.37
+Maine,"2023 09",44862.59
+"New Jersey","2023 09",95680.79
+Massachusetts,"2023 10",113824.37
+Maryland,"2023 10",248095.23
+Maine,"2023 10",34905.29
+"New Jersey","2023 10",108715.83
+Massachusetts,"2023 11",105670.08
+Maryland,"2023 11",242019.94
+Maine,"2023 11",35428.88
+"New Jersey","2023 11",106648.71
+Massachusetts,"2023 12",101641.22
+Maryland,"2023 12",236037.31
+Maine,"2023 12",41279.32
+"New Jersey","2023 12",111495.71
+Massachusetts,"2024 01",117915.05
+Maryland,"2024 01",234650.29
+Maine,"2024 01",43881.68
+"New Jersey","2024 01",99272.17
+Maryland,"2024 02",200891.75
+Massachusetts,"2024 02",103968.70
+Maine,"2024 02",31494.48
+"New Jersey","2024 02",96699.78
+Massachusetts,"2024 03",110968.54
+Maryland,"2024 03",263664.98
+Maine,"2024 03",36311.69
+"New Jersey","2024 03",95231.21
+Massachusetts,"2024 04",107421.88
+Maryland,"2024 04",225960.88
+Maine,"2024 04",25764.94
+"New Jersey","2024 04",91875.84
+Maryland,"2024 05",248901.48
+Massachusetts,"2024 05",106193.39
+Maine,"2024 05",31426.20
+"New Jersey","2024 05",89476.87
+Massachusetts,"2024 06",116310.73
+Maryland,"2024 06",213366.79
+Maine,"2024 06",43488.63
+"New Jersey","2024 06",97550.01
+Massachusetts,"2024 07",126212.14
+Maryland,"2024 07",233256.77
+Maine,"2024 07",42202.08
+"New Jersey","2024 07",107203.90
+Massachusetts,"2024 08",123926.20
+Maryland,"2024 08",234863.77
+Maine,"2024 08",46505.54
+"New Jersey","2024 08",98470.41
+Massachusetts,"2024 09",111867.10
+Maryland,"2024 09",240869.83
+Maine,"2024 09",33262.34
+"New Jersey","2024 09",105926.21
+Massachusetts,"2024 10",110582.18
+Maryland,"2024 10",247456.61
+Maine,"2024 10",36520.57
+"New Jersey","2024 10",110232.92
+Massachusetts,"2024 11",96729.12
+Maryland,"2024 11",230600.64
+Maine,"2024 11",40187.63
+"New Jersey","2024 11",107911.50
+Massachusetts,"2024 12",139388.56
+Maryland,"2024 12",247207.80
+Maine,"2024 12",41331.95
+"New Jersey","2024 12",115439.64
+Maryland,"2025 01",277874.74
+Massachusetts,"2025 01",150745.88
+Maine,"2025 01",45308.75
+"New Jersey","2025 01",148558.26
+Massachusetts,"2025 02",140234.24
+Maryland,"2025 02",262318.88
+Maine,"2025 02",51793.28
+"New Jersey","2025 02",131102.08
+Massachusetts,"2025 03",160846.61
+Maryland,"2025 03",293722.84
+Maine,"2025 03",45762.66
+"New Jersey","2025 03",138083.24
+Massachusetts,"2025 04",156773.91
+Maryland,"2025 04",206982.63
+Maine,"2025 04",63103.49
+"New Jersey","2025 04",138626.24
+Massachusetts,"2025 05",157710.74
+Maryland,"2025 05",225774.67
+Maine,"2025 05",46499.27
+"New Jersey","2025 05",133865.16
+Massachusetts,"2025 06",170305.34
+Maryland,"2025 06",216983.57
+Maine,"2025 06",57053.98
+"New Jersey","2025 06",144521.48
+Massachusetts,"2025 07",191697.95
+Maryland,"2025 07",310327.16
+Maine,"2025 07",59531.02
+"New Jersey","2025 07",149097.10
+Massachusetts,"2025 08",174867.46
+Maryland,"2025 08",311949.14
+Maine,"2025 08",61070.43
+"New Jersey","2025 08",151923.99
+Massachusetts,"2025 09",168503.25
+Maryland,"2025 09",304304.79
+Maine,"2025 09",48485.08
+"New Jersey","2025 09",163449.78
+Massachusetts,"2025 10",277382.19
+Maryland,"2025 10",359699.69
+Maine,"2025 10",93456.68
+"New Jersey","2025 10",250830.46
+Maryland,"2025 11",304194.50
+Massachusetts,"2025 11",196108.93
+Maine,"2025 11",57222.33
+"New Jersey","2025 11",146953.33
+Massachusetts,"2025 12",186487.64
+Maryland,"2025 12",332129.99
+Maine,"2025 12",65695.32
+"New Jersey","2025 12",170994.00
